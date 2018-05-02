@@ -1,1 +1,1 @@
-test helloworld.c
+test helloworld.c Sum.c
